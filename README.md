@@ -18,7 +18,7 @@ Once installed taking a backup of your files and databases is very easy. Just is
 ``` bash
 composer require spatie/laravel-backup
 ```
-
+#Run Backup Process
 ``` bash
 php artisan backup:run
 ```
