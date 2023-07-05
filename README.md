@@ -16,7 +16,7 @@ Once installed taking a backup of your files and databases is very easy. Just is
 
 #Installation
 ``` bash
-composer require spatie/laravel-backup
+composer require askaralimkndr/laravel-backup
 ```
 #Run Backup Process
 ``` bash
