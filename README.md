@@ -14,6 +14,11 @@ Feeling paranoid about backups? No problem! You can backup your application to m
 
 Once installed taking a backup of your files and databases is very easy. Just issue this artisan command:
 
+#Installation
+``` bash
+composer require spatie/laravel-backup
+```
+
 ``` bash
 php artisan backup:run
 ```
